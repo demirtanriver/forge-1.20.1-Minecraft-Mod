@@ -1,0 +1,1 @@
+This is a custom Minecraft Mod developed in Java, demonstrating strong Object-Oriented Programming skills and the ability to interact with a large, existing codebase with external APIs. The mod adds several items to the game (Armour, tools, food, blocks and other custom items) with unique mechanics (e.g. metal detection), requiring the modification of core game components. 
